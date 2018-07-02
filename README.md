@@ -1,4 +1,4 @@
-# WebCrawler
+ # WebCrawler
 This is a java project developed with maven. (java 8 recommended to run this project). Maven wrapper is used. 
 
 1. Crawler hits endpoint and then proceeds to navigate to each link.
@@ -18,7 +18,7 @@ This is a java project developed with maven. (java 8 recommended to run this pro
      * mvnw.cmd clean install (windows) [or] ./mvnw clean install (linux)
      * java -jar target\spider-0.0.1-SNAPSHOT.jar
 
-#JSON Data
+# JSON Data
 {
 	"links": [
 		"https://httpbin.org/status/200",
